@@ -1,9 +1,6 @@
 Manifest-Version: 1.0
-Built-By: 35679
-Build-Jdk: 11.0.12
+Build-Jdk-Spec: 11
 Implementation-Title: demo-test03
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.example
-Implementation-URL: https://spring.io/projects/spring-boot/demo-test03
 Created-By: Maven Integration for Eclipse
 
